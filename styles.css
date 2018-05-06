@@ -104,6 +104,9 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
+  transform: scale(0.9);
+  transition: 1s;
+
 }
 
 ul.skills {
